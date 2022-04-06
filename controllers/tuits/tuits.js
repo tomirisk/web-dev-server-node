@@ -14,7 +14,7 @@ export default [
     "_id": "234",
     "postedBy": { "username": "NASA" },
     "tuit": "Ingenuity helicopter takes flight.",
-    "likes": 346785,
+    "likes": 757,
     "dislikes": 111,
     "comments": 55,
     "retuits": 27,

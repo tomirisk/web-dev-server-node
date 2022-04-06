@@ -9,7 +9,7 @@ export default [
     "retuits": 20,
     "liked": true,
     "disliked": false,
-    "logo-image": "https://i.postimg.cc/0yHXYhVP/nasa-image.jpg"
+    "logo_image": "https://i.postimg.cc/0yHXYhVP/nasa-image.jpg"
   },
   {
     "_id": "234",
@@ -21,6 +21,6 @@ export default [
     "retuits": 27,
     "liked": false,
     "disliked": true,
-    "logo-image": "https://i.postimg.cc/0yHXYhVP/nasa-image.jpg"
+    "logo_image": "https://i.postimg.cc/0yHXYhVP/nasa-image.jpg"
   }
   ];

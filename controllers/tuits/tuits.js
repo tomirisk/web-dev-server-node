@@ -6,7 +6,8 @@ export default [
     "likes": 345,
     "dislikes": 11,
     "comments": 5,
-    "retuits": 20
+    "retuits": 20,
+    "liked": true
   },
   {
     "_id": "234",
@@ -15,6 +16,7 @@ export default [
     "likes": 346785,
     "dislikes": 111,
     "comments": 55,
-    "retuits": 27
+    "retuits": 27,
+    "liked": false
   }
   ];

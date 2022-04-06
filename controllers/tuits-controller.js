@@ -5,6 +5,8 @@ let tuits = posts;
 const createTuit = (req, res) => {
   const newTuit = req.body;
   newTuit._id = (new Date()).getTime()+'';
+  newTuit.postedBy = {};
+  newTuit.postedBy.username = "Jose";
   newTuit.likes = 0;
   tuits.push(newTuit);
   res.json(newTuit);
